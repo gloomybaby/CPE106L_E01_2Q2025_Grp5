@@ -1,1 +1,14 @@
-
+CPE106L_Lab3/
+│
+└── Lab3/
+    ├── postlab_proj1/       (for PE1: Student Management System)
+    │   ├── student.py
+    │   └── PE1_class_diagram.uxf
+    │
+    ├── postlab_proj2/
+    │   ├── bankaccount.py
+    │   └── PE2_class_diagram.uxf
+    │
+    └── postlab_proj3/
+        ├── book.py
+        └── PE3_class_diagram.uxf
